@@ -1,5 +1,5 @@
-github.com/antoinecrochet/transport-rennes-be v0.0.0-20250123210209-a9cf1f0b9520 h1:mgDHqu5GxR20DM+G/pLSSER0aa92USBMvc4qYJfb7WA=
-github.com/antoinecrochet/transport-rennes-be v0.0.0-20250123210209-a9cf1f0b9520/go.mod h1:h0dWO4TuwdH4fowIeyDCSqRnuA46pox3QQHtS+I8EZc=
+github.com/antoinecrochet/transport-rennes-be v0.0.0-20250202184957-18deeecceb65 h1:UuWwt7WBtHi83mSclmsDo3ym0TLWdzuG5gVggWnAyIg=
+github.com/antoinecrochet/transport-rennes-be v0.0.0-20250202184957-18deeecceb65/go.mod h1:h0dWO4TuwdH4fowIeyDCSqRnuA46pox3QQHtS+I8EZc=
 github.com/aws/aws-lambda-go v1.47.0 h1:0H8s0vumYx/YKs4sE7YM0ktwL2eWse+kfopsRI1sXVI=
 github.com/aws/aws-lambda-go v1.47.0/go.mod h1:dpMpZgvWx5vuQJfBt0zqBha60q7Dd7RfgJv23DymV8A=
 github.com/aws/aws-sdk-go v1.55.6 h1:cSg4pvZ3m8dgYcgqB97MrcdjUmZ1BeMYKUxMMB89IPk=
