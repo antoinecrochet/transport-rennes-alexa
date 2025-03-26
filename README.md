@@ -1,6 +1,9 @@
 # Transport Rennes Alexa Skill
 
-This project is an Alexa skill built with Go that provides information about transport services in Rennes. It uses AWS Lambda for serverless deployment and DynamoDB for data storage.
+This project is an Alexa skill built with Go that provides information about transport services in Rennes (France). It uses AWS Lambda for serverless deployment and DynamoDB for data storage.
+
+Alexa Skills Store :
+https://www.amazon.fr/Antoine-Crochet-Transport-Rennes/dp/B094G4H2XN
 
 ## Prerequisites
 
